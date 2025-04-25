@@ -18,16 +18,6 @@ A personal portfolio website showcasing my skills, projects, education, and test
 - **Styling:** CSS, Google Fonts  
 - **Frameworks & Libraries:** Bootstrap 5, FontAwesome, Bootstrap Icons  
 
-## 📸 Screenshots
-
-![Image](https://github.com/user-attachments/assets/aabbf4b5-eb5c-45ae-abb8-70e4c10181a9)
-![Image](https://github.com/user-attachments/assets/e018c273-6c7a-4eb2-9220-335ee14ab8ed)
-![Image](https://github.com/user-attachments/assets/b62cb6b6-226c-466f-842d-ce924384c8ae)
-![Image](https://github.com/user-attachments/assets/b15c8c3c-7776-4ab0-8ff9-281c3ad2bc36)
-![Image](https://github.com/user-attachments/assets/e091a18b-2707-44a2-8b3b-c9201d3ab164)
-![Image](https://github.com/user-attachments/assets/f9daa649-64e4-4a5b-9197-974bca70f3a5)
-![Image](https://github.com/user-attachments/assets/2d88f011-e671-4180-8767-6c907d6019e8)
-
 ## 📂 Folder Structure
 ├── index.html # Main HTML file
 
